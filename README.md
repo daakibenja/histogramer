@@ -1,2 +1,2 @@
 # histogramer
-A c program that draw histogram on the console
+A c program that draws histograms on the console
